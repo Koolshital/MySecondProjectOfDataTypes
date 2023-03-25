@@ -1,0 +1,2 @@
+public class MyPracticeClass1 {
+}
